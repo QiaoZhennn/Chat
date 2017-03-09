@@ -13,6 +13,7 @@ import java.net.Socket;
  * Created by 桢 on 2017/2/27.
  */
 public class ChatClient extends Frame {
+    // this is written on GitHub Websit. I want to check Branches function.
     TextField tfTxt = new TextField();
     TextArea taContent = new TextArea();
     String str_of_ta = "";
